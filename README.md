@@ -1,7 +1,6 @@
 # POS System - Formative Assessment 1 (IT0049)
 
-A basic 4-page Point-of-Sale (POS) system built using CodeIgniter 4,
-demonstrating routing, controllers, and views following the MVC pattern.
+A basic 4-page Point-of-Sale (POS) system built using CodeIgniter 4, demonstrating routing, controllers, and views following the MVC pattern.
 
 **Student:** Janina Charisse Torre
 **Section:** DC31
@@ -24,4 +23,20 @@ demonstrating routing, controllers, and views following the MVC pattern.
 
 ## Setup Instructions
 
-1. Clone this repository:
+1. Clone this repository using `git clone https://github.com/jxninxtorre/Web-System-And-Technologies-TSA-1.git`
+2. Navigate into the project folder using `cd Web-System-And-Technologies-TSA-1`
+3. Install dependencies using `composer install`
+4. Copy the environment file: `copy env .env`
+5. In the `.env` file, set `CI_ENVIRONMENT = development`
+6. Start the development server: `php spark serve`
+7. Open your browser to `http://localhost:8080/` (or whichever port is shown in the terminal)
+
+## Live Demo
+
+Insert your hosted link here once deployed.
+
+## Tech Stack
+
+- CodeIgniter 4
+- PHP 8.2
+- Static PHP arrays as temporary data source (no database yet)
