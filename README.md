@@ -31,10 +31,6 @@ A basic 4-page Point-of-Sale (POS) system built using CodeIgniter 4, demonstrati
 6. Start the development server: `php spark serve`
 7. Open your browser to `http://localhost:8080/` (or whichever port is shown in the terminal)
 
-## Live Demo
-
-Insert your hosted link here once deployed.
-
 ## Tech Stack
 
 - CodeIgniter 4
