@@ -15,7 +15,8 @@ A basic 4-page Point-of-Sale (POS) system built using CodeIgniter 4, demonstrati
 | Customer Accounts | `/customers` | List of customers (static array) |
 | User Accounts | `/users` | List of users/staff (static array) |
 
-## Live Hostings (DON'T INCLUDE .COM)
+## Live Hostings 
+
 - http://janinapos.free.je
 - http://janinapos.free.je/about
 - http://janinapos.free.je/customers
